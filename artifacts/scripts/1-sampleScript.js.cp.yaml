@@ -1,0 +1,45 @@
+default:
+    timestamp: 1656891810182
+    metadata:
+        User Checkpoint: Fund Contract Account
+    asa: {}
+    app: {}
+    dLsig:
+        feeCheck:
+            creator: II75XSDNKLRIZ2SNP3S6CAWI7CO2GNB4HSWFRUNL67UUIQ6PPZ3TOSG3BE
+            contractAddress: II75XSDNKLRIZ2SNP3S6CAWI7CO2GNB4HSWFRUNL67UUIQ6PPZ3TOSG3BE
+            lsig:
+                lsig:
+                    tag:
+                        - 80
+                        - 114
+                        - 111
+                        - 103
+                        - 114
+                        - 97
+                        - 109
+                    logic:
+                        - 4
+                        - 49
+                        - 1
+                        - 129
+                        - 144
+                        - 78
+                        - 15
+                        - 49
+                        - 32
+                        - 50
+                        - 3
+                        - 18
+                        - 16
+                        - 49
+                        - 9
+                        - 50
+                        - 3
+                        - 18
+                        - 16
+                    args: []
+                    sig: null
+                    msig: null
+                sigkey: null
+            file: fee-check.teal

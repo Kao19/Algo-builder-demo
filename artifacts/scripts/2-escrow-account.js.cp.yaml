@@ -1,0 +1,80 @@
+default:
+    timestamp: 1656891818941
+    metadata:
+        User Checkpoint Escrow: "Fund Escrow Account:
+            GN5VUIE4D7WCYFLZK5LPQCL4Z66Y2RIIVCUG3U7FK4W5TKQSLK2G7V6TGY"
+    asa: {}
+    app: {}
+    dLsig:
+        escrow:
+            creator: GN5VUIE4D7WCYFLZK5LPQCL4Z66Y2RIIVCUG3U7FK4W5TKQSLK2G7V6TGY
+            contractAddress: GN5VUIE4D7WCYFLZK5LPQCL4Z66Y2RIIVCUG3U7FK4W5TKQSLK2G7V6TGY
+            lsig:
+                lsig:
+                    tag:
+                        - 80
+                        - 114
+                        - 111
+                        - 103
+                        - 114
+                        - 97
+                        - 109
+                    logic:
+                        - 2
+                        - 38
+                        - 1
+                        - 32
+                        - 177
+                        - 235
+                        - 11
+                        - 214
+                        - 162
+                        - 128
+                        - 7
+                        - 251
+                        - 95
+                        - 103
+                        - 57
+                        - 84
+                        - 218
+                        - 209
+                        - 123
+                        - 99
+                        - 128
+                        - 219
+                        - 236
+                        - 56
+                        - 189
+                        - 216
+                        - 66
+                        - 36
+                        - 137
+                        - 179
+                        - 178
+                        - 216
+                        - 221
+                        - 45
+                        - 155
+                        - 126
+                        - 49
+                        - 32
+                        - 50
+                        - 3
+                        - 18
+                        - 49
+                        - 9
+                        - 50
+                        - 3
+                        - 18
+                        - 16
+                        - 49
+                        - 7
+                        - 40
+                        - 18
+                        - 16
+                        - 67
+                    args: []
+                    sig: null
+                    msig: null
+                sigkey: null
+            file: escrow.py

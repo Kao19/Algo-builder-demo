@@ -1,0 +1,15 @@
+{
+  "name": "ab-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@algo-builder/algob": "^4.0.0"
+  },
+  "packageManager": "yarn@3.2.1"
+}
